@@ -23,6 +23,7 @@
 * Numpy
 * Pandas
 * Matplotlib
-* 
+* SKlearn
+* Scikit, etc.
 
 
